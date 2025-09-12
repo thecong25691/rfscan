@@ -1,4 +1,4 @@
-3<?xml version="1.0" encoding="UTF-8"?><config>
+<?xml version="1.0" encoding="UTF-8"?><config>
   <kiosk>
     <application label="DWDemo" package="com.symbol.datawedge" activity="com.symbol.datawedge.DWDemoActivity"/>
   </kiosk>
@@ -16,8 +16,7 @@
 	
   <tools>
     <application label="DWDemo" package="com.symbol.datawedge" activity="com.symbol.datawedge.DWDemoActivity"/>
-    <application label="StageNow" package="com.symbol.tool.stagenow" activity="com.symbol.tool.stagenow.main.HomeScreen"/>
-    <application label="DataWedge" package="com.symbol.datawedge" activity="com.symbol.datawedge.dwProfiles"/>	
+    <application label="StageNow" package="com.symbol.tool.stagenow" activity="com.symbol.tool.stagenow.main.HomeScreen"/>  
   </tools>
 	<!--PHẦN NÀY LÀ MẬT KHẨU EHS 250691-->
   <passwords>
@@ -52,7 +51,7 @@
     <keyguard_camera_disabled>1</keyguard_camera_disabled>
     <kiosk_mode_enabled>0</kiosk_mode_enabled>
 	  
-    <title>DBS.Dell-T8.2024</title>
+    <title>DBS.Dell-T9.2025</title>
 	  <!-- PHẦN NÀY LÀ CÁC ỨNG DỤNG BỊ DISABLE ĐỂ CHO USER KHÔNG NGHỊCH -->
     <apps_disabled>
       <application package="com.android.settings"/>
