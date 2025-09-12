@@ -14,6 +14,8 @@
   </applications>
   <tools>
     <application label="DWDemo" package="com.symbol.datawedge" activity="com.symbol.datawedge.DWDemoActivity"/>
+	  <application label="DataWedge" package="com.symbol.datawedge" activity="com.symbol.datawedge.dwProfiles"/>
+	  <application label="StageNow" package="com.symbol.tool.stagenow" activity="com.symbol.tool.stagenow.main.HomeScreen"/>
   </tools>
   <passwords>
     <admin attempts="1">FUK4o6cHW01PsHS9fkDHxlefd6KjCpP2fOa+CwiX5q4=kklSsjewEL9IbGaif1WFlsdZxn+w8Vvwn+zfmlQQVZA=</admin>
