@@ -17,7 +17,7 @@
   <tools>
     <application label="DWDemo" package="com.symbol.datawedge" activity="com.symbol.datawedge.DWDemoActivity"/>
     <application label="StageNow" package="com.symbol.tool.stagenow" activity="com.symbol.tool.stagenow.main.HomeScreen"/>
-  <application label="DataWedge" package="com.symbol.datawedge" activity="com.symbol.datawedge.dwProfiles"/>	
+    <application label="DataWedge" package="com.symbol.datawedge" activity="com.symbol.datawedge.dwProfiles"/>	
   </tools>
 	<!--PHẦN NÀY LÀ MẬT KHẨU EHS 250691-->
   <passwords>
