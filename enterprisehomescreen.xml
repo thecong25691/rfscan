@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><config>
+3<?xml version="1.0" encoding="UTF-8"?><config>
   <kiosk>
     <application label="DWDemo" package="com.symbol.datawedge" activity="com.symbol.datawedge.DWDemoActivity"/>
   </kiosk>
@@ -16,7 +16,8 @@
 	
   <tools>
     <application label="DWDemo" package="com.symbol.datawedge" activity="com.symbol.datawedge.DWDemoActivity"/>
-    <application label="StageNow" package="com.symbol.tool.stagenow" activity="com.symbol.tool.stagenow.main.HomeScreen"/>  
+    <application label="StageNow" package="com.symbol.tool.stagenow" activity="com.symbol.tool.stagenow.main.HomeScreen"/>
+  <application label="DataWedge" package="com.symbol.datawedge" activity="com.symbol.datawedge.dwProfiles"/>	
   </tools>
 	<!--PHẦN NÀY LÀ MẬT KHẨU EHS 250691-->
   <passwords>
