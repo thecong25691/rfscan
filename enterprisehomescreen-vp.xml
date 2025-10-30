@@ -9,7 +9,6 @@
     <application label="StageNow" package="com.symbol.tool.stagenow" activity="com.symbol.tool.stagenow.main.HomeScreen"/>
 	<application label="SmartClock" package="com.congit.simplewebbrowser" activity="com.congit.simplewebbrowser.MainActivity"/>
 	<application label="SmartClock" package="com.congit.smartclock" activity="com.congit.smartclock.MainActivity"/>
-	<application label="SmartClockv2.0" package="com.congit.smartclock2" activity="com.congit.smartclock2.MainActivity"/>
 	<application label="NGW-UAT" package="com.congit.ngwuat" activity="com.congit.ngwuat.MainActivity"/>
 	<application label="NGW" package="com.congit.ngw" activity="com.congit.ngw.MainActivity"/>
 	<application label="SMARTCLOCK" package="com.android.chrome" activity="com.google.android.apps.chrome.Main"/>
@@ -41,7 +40,7 @@
     <icon_label_background_color>#00FFFFFF</icon_label_background_color>
     <keyguard_camera_disabled>1</keyguard_camera_disabled>
     <kiosk_mode_enabled>0</kiosk_mode_enabled>
-    <title>DBS.VPhuc-11.2025</title>
+    <title>DBS.VPhuc.2025</title>
 
     <apps_disabled>
       <application package="com.android.settings"/>
