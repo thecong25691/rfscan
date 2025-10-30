@@ -14,6 +14,7 @@
 	<application label="NGW" package="com.congit.ngw" activity="com.congit.ngw.MainActivity"/>
 	<application label="SMARTCLOCK" package="com.android.chrome" activity="com.google.android.apps.chrome.Main"/>
 <application label="Chromium" package="org.chromium.chrome.stable" activity="com.google.android.apps.chrome.Main"/>
+	  	<link label="SmartClock2.0" url="https://cl-lms.tsc.signintra.com/clock/clockin?site=63" package="org.chromium.chrome"  activity="com.google.android.apps.chrome.Main"/>
   </applications>
   <tools>
     <application label="DWDemo" package="com.symbol.datawedge" activity="com.symbol.datawedge.DWDemoActivity"/>
@@ -41,7 +42,7 @@
     <keyguard_camera_disabled>1</keyguard_camera_disabled>
     <kiosk_mode_enabled>0</kiosk_mode_enabled>
     <title>DBS.VPhuc-11.2025</title>
-	<link label="Zebra" url="https://www.zebra.com" package="org.chromium.chrome"  activity="com.google.android.apps.chrome.Main"/>
+
     <apps_disabled>
       <application package="com.android.settings"/>
       <application package="com.google.android.googlequicksearchbox"/>
