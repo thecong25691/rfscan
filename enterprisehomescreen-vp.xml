@@ -41,6 +41,7 @@
     <keyguard_camera_disabled>1</keyguard_camera_disabled>
     <kiosk_mode_enabled>0</kiosk_mode_enabled>
     <title>DBS.VPhuc-11.2025</title>
+	<link label="Zebra" url="https://www.zebra.com" package="org.chromium.chrome"  activity="com.google.android.apps.chrome.Main"/>
     <apps_disabled>
       <application package="com.android.settings"/>
       <application package="com.google.android.googlequicksearchbox"/>
