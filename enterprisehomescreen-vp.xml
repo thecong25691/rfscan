@@ -12,8 +12,12 @@
 	<application label="NGW-UAT" package="com.congit.ngwuat" activity="com.congit.ngwuat.MainActivity"/>
 	<application label="NGW" package="com.congit.ngw" activity="com.congit.ngw.MainActivity"/>
 	<application label="SMARTCLOCK" package="com.android.chrome" activity="com.google.android.apps.chrome.Main"/>
-<application label="Chromium" package="org.chromium.chrome.stable" activity="com.google.android.apps.chrome.Main"/>
-	  	<link label="SmartClock2.0" url="https://cl-lms.tsc.signintra.com/clock/clockin?site=63" package="org.chromium.chrome.stable"  activity="com.google.android.apps.chrome.Main"/>
+	<!--<application label="Chromium" package="org.chromium.chrome.stable" activity="com.google.android.apps.chrome.Main"/> -->
+	<link label="SmartClock2.0" url="https://cl-lms.tsc.signintra.com/clock/clockin?site=63" package="org.chromium.chrome.stable"  activity="com.google.android.apps.chrome.Main"/>
+	<link label="SmartClock2.0" url="https://cl-lms.tsc.signintra.com/clock/clockin?site=63" package="com.android.chrome"  activity="com.google.android.apps.chrome.Main"/>
+
+  
+  
   </applications>
   <tools>
     <application label="DWDemo" package="com.symbol.datawedge" activity="com.symbol.datawedge.DWDemoActivity"/>
