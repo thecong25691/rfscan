@@ -12,6 +12,8 @@
 	<application label="SmartClockv2.0" package="com.congit.smartclock2" activity="com.congit.smartclock2.MainActivity"/>
 	<application label="NGW-UAT" package="com.congit.ngwuat" activity="com.congit.ngwuat.MainActivity"/>
 	<application label="NGW" package="com.congit.ngw" activity="com.congit.ngw.MainActivity"/>
+		<application label="SMARTCLOCK" package="com.android.chrome" activity="com.google.android.apps.chrome.Main"/>
+<application label="Chromium" package="org.chromium.chrome.stable" activity="com.google.android.apps.chrome.Main"/>
   </applications>
   <tools>
     <application label="DWDemo" package="com.symbol.datawedge" activity="com.symbol.datawedge.DWDemoActivity"/>
@@ -42,7 +44,7 @@
     <apps_disabled>
       <application package="com.android.settings"/>
       <application package="com.google.android.googlequicksearchbox"/>
-      <application package="com.android.chrome"/>
+
       <application package="com.example.android.notepad"/>
       <application package="com.google.android.youtube"/>
 	<application package="com.android.vending"/>
