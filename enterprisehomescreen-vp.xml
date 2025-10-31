@@ -57,7 +57,7 @@
 <application package="com.google.android.email"/>
 <application package="com.google.android.apps.maps"/>
 <application package="com.google.android.photos"/>
-<application package="com.google.android.gms"/>
+
     </apps_disabled>
   </preferences>
 </config>
